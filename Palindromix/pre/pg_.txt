@@ -1,0 +1,1 @@
+pgb,pgdn,pge,pgm,pgnig,pgp,pgr,pgup

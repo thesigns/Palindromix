@@ -1,0 +1,1 @@
+anr,genr,henr,inr,mikrohenr,milihenr,onr,żanr

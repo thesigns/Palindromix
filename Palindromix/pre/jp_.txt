@@ -1,0 +1,1 @@
+jpeg,jpeg,jpg,jpg,jpl

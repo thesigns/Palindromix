@@ -1,0 +1,1 @@
+asp,asp,bpnmsp,bsp,cssp,eksp,esp,hsp,isp,ksp,lisp,msp,nasp,nosp,osp,osp,pnmsp,psp,ssp,szsp,tzsp,usp,wasp,wasp,wasp,wasp,wsp,wssp,wysp,zasp,zasp,zosp,zsp,zzasp

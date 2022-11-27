@@ -1,0 +1,1 @@
+dpd,npd,opd,sepd,sjpd,spd,tpd

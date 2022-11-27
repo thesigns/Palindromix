@@ -1,0 +1,1 @@
+dampc,kpc,mpc,powerpc,rpc,sierpc,stołpc,upc

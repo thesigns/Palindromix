@@ -1,0 +1,1 @@
+ginb,inb,knb,pnb
